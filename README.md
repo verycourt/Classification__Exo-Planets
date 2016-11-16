@@ -1,5 +1,5 @@
 # Spark-project
-Shell command used to compile, at the build.sbt level:
+Shell command used to compile, at the build.sbt level:\n
 sbt assembly
 
 Shell command used to execute the code, at the spark-2.0.0-bin-hadoop2.6/bin/ level:
