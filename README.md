@@ -14,3 +14,8 @@ We would have used :
 > ./spark-submit --driver-memory 3G --executor-memory 4G --class com.sparkProject.Job --master spark:"path of the master node"  /Users/bertrrandBertrand/Desktop/MS_BIG_DATA/Spark/tp_spark/target/scala-2.11/tp_spark-assembly-1.0.jar
 
 where the path of the master is //eduroam-0-60.enst.fr:7077 for example.
+
+
+You will fin the code of the JobML here:
+
+https://github.com/verycourt/Classification__Exo-Planets/blob/master/tp_spark/src/main/scala/com/sparkProject/JobML.scala
